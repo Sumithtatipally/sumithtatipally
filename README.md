@@ -32,6 +32,7 @@ Feel free to connect with me or explore more about my work:
 
 
 ![Profile Visits](https://visitor-badge.glitch.me/badge?page_id=sumithtatipally.sumithtatipally)
+![Profile Visits](https://img.shields.io/github/profile-views/Sumithtatipally/Sumithtatipally?color=blueviolet&style=flat-square)
 
 Thanks for visiting my GitHub profile, and I look forward to connecting with you! 😊
 
