@@ -28,7 +28,7 @@ In my professional life, I have an eye for detail and a thirst for knowledge tha
 Feel free to connect with me or explore more about my work:
 
 - LinkedIn: [Sumith Tatipally](https://www.linkedin.com/in/sumithtatipally)
-- Instagram: [sumith_tatipally](https://www.instagram.com/sumithtatipally)
+- Instagram: [Sumith Tatipally](https://www.instagram.com/sumithtatipally)
 
 
 ![Profile Visits](https://visitor-badge.glitch.me/badge?page_id=sumithtatipally.sumithtatipally)
