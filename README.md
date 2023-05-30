@@ -1,6 +1,9 @@
 <h1 align="center"><span style="color:#ff6b6b;">Hi 👋, I'm Sumith Tatipally</span></h1>
 <h3 align="center"><span style="color:#ff6b6b;">Passionate about numbers and data</span></h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sumithtatipally&label=Profile%20views&color=0e75b6&style=flat" alt="Sumithtatipally" /> </p>
+
+
 ## About Me 😄
 
 Hey there, I'm Sumith! I'm a data enthusiast from Hyderabad, India. I have a passion for exploring the latest trends and technologies in machine learning. When I'm not working on code, I love to travel and explore the great outdoors. I'm particularly drawn to trekking in the mountains, where I can challenge myself physically and mentally while taking in the stunning natural beauty around me. 🏔️
