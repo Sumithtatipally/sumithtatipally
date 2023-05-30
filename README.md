@@ -1,7 +1,8 @@
 <!-- ### Hi there 👋 -->
-# Welcome to My GitHub Profile! 👋
+<!-- # Welcome to My GitHub Profile! 👋 -->
+<h1 align="center"> Hi 👋, I'm Sumith Tatipally</h1>
+<h3 align="center"> Passionate about number and data</h3>
 
-![Profile Visits](https://visitor-badge.glitch.me/badge?page_id=sumithtatipally.sumithtatipally)
 
 ## About Me 😄
 
@@ -28,6 +29,9 @@ Feel free to connect with me or explore more about my work:
 
 - LinkedIn: [Sumith Tatipally](https://www.linkedin.com/in/sumithtatipally)
 - Instagram: [sumith_tatipally](https://www.instagram.com/sumithtatipally)
+
+
+![Profile Visits](https://visitor-badge.glitch.me/badge?page_id=sumithtatipally.sumithtatipally)
 
 Thanks for visiting my GitHub profile, and I look forward to connecting with you! 😊
 
