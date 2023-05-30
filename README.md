@@ -1,8 +1,5 @@
-<!-- ### Hi there 👋 -->
-<!-- # Welcome to My GitHub Profile! 👋 -->
-<h1 align="center"> Hi 👋, I'm Sumith Tatipally</h1>
-<h3 align="center"> Passionate about number and data</h3>
-
+<h1 align="center"><span style="color:#ff6b6b;">Hi 👋, I'm Sumith Tatipally</span></h1>
+<h3 align="center"><span style="color:#ff6b6b;">Passionate about numbers and data</span></h3>
 
 ## About Me 😄
 
@@ -22,19 +19,19 @@ In my professional life, I have an eye for detail and a thirst for knowledge tha
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 - ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFCA28?style=flat&logo=python&logoColor=white)
+- ![Langchain](https://img.shields.io/badge/Langchain-0087B3?style=flat&logo=langchain&logoColor=white)
+- ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat&logo=python&logoColor=white)
 
 ## Let's Connect 🔗
 
 Feel free to connect with me or explore more about my work:
 
-- LinkedIn: [Sumith Tatipally](https://www.linkedin.com/in/sumithtatipally)
-- Instagram: [Sumith Tatipally](https://www.instagram.com/sumithtatipally)
-
-
-![Profile Visits](https://visitor-badge.glitch.me/badge?page_id=sumithtatipally.sumithtatipally)
-![Profile Visits](https://img.shields.io/github/profile-views/Sumithtatipally/Sumithtatipally?color=blueviolet&style=flat-square)
+- LinkedIn: [Sumith Tatipally](https://www.linkedin.com/in/sumith-tatipally)
+- Instagram: [sumith_tatipally](https://www.instagram.com/sumith_tatipally)
 
 Thanks for visiting my GitHub profile, and I look forward to connecting with you! 😊
+
 
 <!--
 **Sumithtatipally/sumithtatipally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
